@@ -66,14 +66,13 @@ Ils ne servent qu'au développeur.
 Il suffit de lancer la page web avec `liveserver` par exemple.  
 Biensûr, il faut que le script soit intégré ou lié, comme vu précédement.
 
-## méthodes de tests
-- depuis le script avec la fonction `console.log()`
-- directement en tapant tout dans la console du navigateur
-
-### La console du navigateur
-Si vous faites un clic droit sur le navigateur, vous ouvrez un panneau inspecteur de tout ce qui est html, css et javascript.  
+## Les premiers tests de variables
+### 1. depuis le script
+- on peut tester une variable avec la fonction `console.log()`
+### 2. depuis la console du navigateur
+Si vous faites un clic droit sur le navigateur, vous ouvrez un panneau inspecteur de tout ce qui est html, css et javascript.    
 Pour inspecter du javascript, il faut aller dans l'onglet console. 
-### Nota bene 
+#### Nota bene 
 Cet onglet est une bénédiction quand on débute en JS, car on peut tester directement des variables.  
 
 Ici, par exemple, nous avons deux variables a et b. On demande si a est supérieur à b  .
