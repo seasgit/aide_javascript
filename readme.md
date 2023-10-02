@@ -4,26 +4,20 @@
 Connaître HTML/CSS ou avoir suivi un cours d'initiation à l'intégration web.
 
 ## Objectif
-- Apprendre JavaScript par la pratique où il sera question d'ajouter de l'interactivité, modifier le contenu ou le style d'éléments d'une page web.
-- S'aider de ce support qui propose un mémo des bases essentielles pour bien appréhender ce cours
-- Utiliser la doc en ligne pour une recheche plus approdondie
+- S'initier à JavaScript par la pratique. 
+- Ajouter de l'interactivité, modifier le contenu ou le style d'éléments d'une page web.
+- S'aider de ce support et utiliser la doc en ligne pour une recheche plus approdondie
 - Utiliser ChatGPT : Un véritable assistant, si l'on maîtrise le prompt.
 
 ## Quelques bases du langage JavaScript
-- Variables et constantes
-- Types de données
-- Tableaux de données
-- Opérations arithmétiques
-- Conditions
-- Boucles de répétitions
+- Variables , tableaux, conditions , boucles, etc...
+
 
 ## Fonctionnalités liées au navigateur
-- Référencer un ou plusieurs éléments 
-- Appliquer un style css à un élément
-- Ajouter / enlever une classe css à un élément
-- Cliquer sur un élément 
+- Sélectionner un ou plusieurs éléments
+- Modifier le contenu ou le style d'un ou plusieurs éléments
+- Cliquer sur un élément
 - Lancer une fonction à intervalle de temps
-- Lancer une fonction de délai
 
 ## Où placer un programme Javascript 
 ### 1. Dans le document html, dans une paire de balises script.
