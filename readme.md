@@ -25,11 +25,6 @@ Connaître HTML/CSS ou avoir suivi un cours d'initiation à l'intégration web.
 - Lancer une fonction à intervalle de temps
 - Lancer une fonction de délai
 
-## La console 
-Si vous faites un clic droit sur le navigateur, vous ouvrez un panneau inspecteur de tout ce qui est html, css et javascript.  
-Pour inspecter du javascript, il faut aller dans l'onglet console.  
-Cet onglet est une bénédiction quand on débute en JS, car on peut tester beaucoup de choses.
-
 ## Où placer un programme Javascript 
 ### 1. Dans le document html, dans une paire de balises script.
 ```html
@@ -51,3 +46,21 @@ Le fichier peut être dans l’entête du document en en fin de page
 </head>
 ```
 Pour le dire simplement : le terme defer permet au navigateur de donner la priorité au chargement de la page web.
+
+
+## Comment Exécuter du Javascript
+
+Il suffit de lancer la page web avec liveserver par exemple.  
+Biensûr, il faut que le script soit intégré ou lié, comme vu précédement.
+
+## Comment tester des données JavaScript
+### La console 
+Si vous faites un clic droit sur le navigateur, vous ouvrez un panneau inspecteur de tout ce qui est html, css et javascript.  
+Pour inspecter du javascript, il faut aller dans l'onglet console. 
+### Nota bene 
+Cet onglet est une bénédiction quand on débute en JS, car on peut tester directement des variables.  
+
+Ici, par exemple, nous avons deux variables a et b. On demande si a est supérieur à b  .
+
+![console](./captures_ecran/console.PNG)
+
