@@ -47,14 +47,30 @@ Le fichier peut être dans l’entête du document en en fin de page
 ```
 Pour le dire simplement : le terme defer permet au navigateur de donner la priorité au chargement de la page web.
 
+## Les commentaires d'un programme javascript
+Avant de commencer l'initiation il est bon de savoir comment créer des commentaires dans un script.  
+
+Ils ne servent qu'au développeur.
+```js
+    // commmentaire sur une ligne
+
+    /*
+        bloc de commentaire
+        sur plusieurs
+        lignes.
+    */
+```
 
 ## Comment Exécuter du Javascript
 
-Il suffit de lancer la page web avec liveserver par exemple.  
+Il suffit de lancer la page web avec `liveserver` par exemple.  
 Biensûr, il faut que le script soit intégré ou lié, comme vu précédement.
 
-## Comment tester des données JavaScript
-### La console 
+## méthodes de tests
+- depuis le script avec la fonction `console.log()`
+- directement en tapant tout dans la console du navigateur
+
+### La console du navigateur
 Si vous faites un clic droit sur le navigateur, vous ouvrez un panneau inspecteur de tout ce qui est html, css et javascript.  
 Pour inspecter du javascript, il faut aller dans l'onglet console. 
 ### Nota bene 

@@ -1,25 +1,6 @@
 # Introduction
 Un programme peut manipuler des données de type nombre, chaines de caractères, tableaux ou listes, voire plus complexes. 
 A notre niveau, nous nous limiterons à deux ou trois types :  nombres, chaines de caractères et tableaux.
-
-
-# En préambule 
-## des commentaires
-Avant de faire des tests sur les différents types de données, il est bon de savoir créer des commentaires dans un script
-```js
-    // commmentaire sur une ligne
-
-    /*
-        bloc de commentaire
-        sur plusieurs
-        lignes.
-    */
-```
-## méthodes de tests
-Les types de données présentés ci-dessous peuvent être testés 
-- depuis le script avec la fonction `console.log()`
-- directement en tapant tout dans la console
-
 # Nombres
 - nombres entiers et decimaux
 ```js

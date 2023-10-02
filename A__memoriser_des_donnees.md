@@ -1,21 +1,3 @@
-# En préambule 
-## des commentaires
-Avant de faire des tests sur les différents types de données, il est bon de savoir créer des commentaires dans un script
-```js
-    // commmentaire sur une ligne
-
-    /*
-        bloc de commentaire
-        sur plusieurs
-        lignes.
-    */
-```
-## méthodes de tests
-Les types de données présentés ci-dessous peuvent être testés 
-- depuis le script avec la fonction `console.log()`
-- directement en tapant tout dans la console
-
-
 # Mémoriser des données 
 un programme Javascript a besoin de garder en mémoire les données textuelles, numériques qu'il traite.  
 
