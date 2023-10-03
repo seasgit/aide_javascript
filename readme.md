@@ -4,8 +4,8 @@
 Connaître HTML/CSS ou avoir suivi un cours d'initiation à l'intégration web.
 
 ## Objectif
-- S'initier à JavaScript par la pratique avec de petits exercices évolutifs. 
-- S'aider de ce support et utiliser la doc en ligne pour une recheche plus approdondie.
+- S'initier à la programmation JavaScript directement par la pratique. 
+- Relier chaque exercice à ce support de cours et toute la doc en ligne pour une recheche plus approdondie.
 - Utiliser ChatGPT : Un véritable assistant, si l'on maîtrise le prompt.
 
 ## Quelques bases du langage JavaScript
