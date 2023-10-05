@@ -10,10 +10,10 @@ titreSection.textContent =  "Hello World!";
 console.log( titreSection)
 ```
 ## contenu html
-Ici on va pouvoir ajouter du contenu plus riche
+Ici on va pouvoir ajouter du contenu plus riche, avec l'intégration de balises et de style par exemple.
 ```js
 // on utilise une propriété innerHTML
-titreSection.innerHTML =  "Les langages du <strong>WEB</strong>"
+titreSection.innerHTML =  "Les langages du <span style='color:red'>WEB</span>"
 // tester avec la console
 console.log( titreSection)
 ```
